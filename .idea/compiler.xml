@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="OOP-3200-F2021-Week13" target="17" />
+      <module name="OOP-3200-F2021-Week13" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
